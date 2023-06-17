@@ -1,13 +1,12 @@
 # Trees-and-Forest (in R)
 
 ## Example of Decision trees and Random Forest application 
+Welcome! This repo hosts 3 studies regarding the use of Decision Regression tree applications on the car insurance dataset. The goal is to estimate the "pure premium" of an insurance contract, by modelling claims frequency and severity separately. To do this, we will compare:
+-  a Single Tree,
+- the benefit of Bagging,
+- and a Random Forest.
+We will explain the pros and cons of each method, tackling the hyper-parameter tuning strategy involved. This was a good project to explore the different functionality of the packages available in R. 
 
-Welcome! This repo hosts 3 study regarding the use of Decision Regression tree applications on an Insurance dataset.
-- Single Tree,
-- Bagging,
-- Random Forest,
-We will explain the pros and cons of each method while exploring the different packages available in R. help us to estimate the claims frequency and its cost (Severity) to define the "pure premium" of an insurance contract calculation.
-At the same time, we will explain the hyper-parameter tuning strategy involved 
-
+![Example of real tree](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/e256ca82-f0a3-43e1-86d7-b998e6f81c58)
 
 ![tree_image](https://user-images.githubusercontent.com/46381506/175452586-639c0e8d-5c85-4cb2-a9db-fbffd10e36ee.jpg)
