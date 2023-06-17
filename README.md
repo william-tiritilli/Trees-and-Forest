@@ -9,4 +9,4 @@ We will explain the pros and cons of each method, tackling the hyper-parameter t
 
 ![Example of real tree](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/e256ca82-f0a3-43e1-86d7-b998e6f81c58)
 
-![tree_image](https://user-images.githubusercontent.com/46381506/175452586-639c0e8d-5c85-4cb2-a9db-fbffd10e36ee.jpg)
+
