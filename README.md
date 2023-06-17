@@ -10,3 +10,5 @@ We will explain the pros and cons of each method, tackling the hyper-parameter t
 ![Example of real tree](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/e256ca82-f0a3-43e1-86d7-b998e6f81c58)
 
 
+## Data
+The data in use come from the chapter one of the book “Predictive Modelling Applications in Actuarial Science, Vol.2”, Edited by E. Frees et al.. A textbook for people who wants to develop knowledge in acturial fields modelling. The book's website is here: https://instruction.bus.wisc.edu/jfrees/jfreesbooks/PredictiveModelingVol1/glm/v2-chapter-1.htm
