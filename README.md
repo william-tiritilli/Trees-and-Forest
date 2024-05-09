@@ -3,7 +3,8 @@
 ## Example of Regression trees and Random Forest application 
 Welcome! In this repo, we will see how use the Random Forest to estimate the component of the insurance Pure Premium: claims frequency and claims severity.
 We saw how the CART algorithm works in a previous repo. Now, we will explain the Random Forest , tackling the hyper-parameter tuning strategy process. More information in the pdfs.
-![Example of real tree](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/e256ca82-f0a3-43e1-86d7-b998e6f81c58)
+![RF](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/f589275c-9bad-4a68-a505-abff63712f8e)
+
 
 ## Data
 The data in use come from the chapter one of the book “Predictive Modelling Applications in Actuarial Science, Vol.2”, Edited by E. Frees et al.. A textbook for people who wants to develop knowledge in these fields.
