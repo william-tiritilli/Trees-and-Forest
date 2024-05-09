@@ -22,6 +22,6 @@ RF is an extension of Bagging. The difference is that before each split, the alg
 Powerful out-of-the-box algorithm that often has great predictive accuracy. 
 Add the benefits of decision trees  and bagging but greatly reduce instability and between-tree correlation.
 However, suffer from slow computational speed as your data sets get larger.
-![image](https://github.com/william-tiritilli/Trees-and-Forest/assets/46381506/d56cc9d6-16dc-4c59-979b-2ce97520c9e5)
+
 
 
